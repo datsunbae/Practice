@@ -1,0 +1,12 @@
+.container {
+    margin-top: 3rem;
+}
+
+.date-input {
+    height: 3rem;
+    font-size: 2rem;
+    font-weight: 500;
+    padding: 2rem;
+    border-radius: 1rem;
+    border: 1px solid green;
+}
